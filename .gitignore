@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# 기본 제공 post들
+_posts/201[5-9]-*.md
+_posts/202[0-4]-*.md
